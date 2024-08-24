@@ -13,7 +13,7 @@ monthly_challenges ={
     'june': 'Create some Applications',
     'july': 'Go for M01',
     'august': 'Go for M02',
-    'september': 'Go for M03',
+    'september': None,
     'october': 'Just try being on track for Data Analytics',
     'november': 'Be on Application Development',
     'december': 'Learn ML & Apply in your application'
